@@ -1,5 +1,11 @@
 # 🚀 Algo-Odyssey
 
+[![Build Status](https://github.com/TimelessCoderD/algo-odyssey/actions/workflows/ci.yml/badge.svg)](https://github.com/TimelessCoderD/algo-odyssey/actions)
+![Last Commit](https://img.shields.io/github/last-commit/TimelessCoderD/algo-odyssey)
+![Repo Size](https://img.shields.io/github/repo-size/TimelessCoderD/algo-odyssey)
+![Languages](https://img.shields.io/github/languages/count/TimelessCoderD/algo-odyssey)
+![Top Language](https://img.shields.io/github/languages/top/TimelessCoderD/algo-odyssey)
+
 Welcome to **Algo-Odyssey** — my personal journey of mastering **Data Structures and Algorithms (DSA)**.  
 This repository contains structured practice, problem solutions, and notes inspired by classic resources like **Narasimha Karumanchi’s DSA book**, coding platforms, and interview preparation guides.
 
