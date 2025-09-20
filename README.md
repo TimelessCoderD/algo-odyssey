@@ -1,30 +1,44 @@
-# DSA Practice
+# 🚀 Algo-Odyssey
 
-This repository contains my complete Data Structures & Algorithms (DSA) practice journey.
+Welcome to **Algo-Odyssey** — my personal journey of mastering **Data Structures and Algorithms (DSA)**.  
+This repository contains structured practice, problem solutions, and notes inspired by classic resources like **Narasimha Karumanchi’s DSA book**, coding platforms, and interview preparation guides.
 
-## Structure
+---
 
-- `arrays/` — problems on arrays
-- `linked-lists/` — problems on linked lists
-- `stacks-queues/` — problems on stacks & queues
-- `hashmaps-strings/` — string and hashmap problems
-- `recursion-backtracking/` — recursion and backtracking
-- `trees/` — binary trees, BST
-- `graphs/` — graph algorithms
-- `greedy/` — greedy problems
-- `dynamic-programming/` — DP problems
-- `math-bit-manipulation/` — math & bit tricks
-- `tests/` — unit tests for Python & JS solutions
+## 📂 Repo Structure
 
-## Progress
+- `recursion-backtracking/` → recursion problems, backtracking
+- `linked-lists/` → singly, doubly, circular linked list problems
+- `stacks-queues/` → stack/queue basics + applications
+- `hashmaps-strings/` → string manipulation, hashmap-based problems
+- `trees/` → binary trees, BST, traversals
+- `graphs/` → BFS, DFS, shortest paths, MST
+- `greedy/` → interval scheduling, job sequencing, knapsack
+- `dynamic-programming/` → classic DP problems (LCS, LIS, knapsack)
+- `math-bit-manipulation/` → primes, gcd, xor tricks
 
-- [ ] Arrays
-- [ ] Linked Lists
-- [ ] Stacks & Queues
-- [ ] Strings & Hashmaps
-- [ ] Recursion & Backtracking
-- [ ] Trees
-- [ ] Graphs
-- [ ] Greedy
-- [ ] Dynamic Programming
-- [ ] Math & Bit Manipulation
+Each topic contains:
+
+- ✅ **Problem solutions** (Python, later JS/Java if needed)
+- 📝 **Time & Space complexity notes**
+- 🧪 **Unit tests** under `tests/`
+- 📌 **Progress tracker in README**
+
+---
+
+## 🎯 Goals
+
+- Strengthen core problem-solving skills
+- Build consistency (2–3 hrs daily practice)
+- Prepare for coding interviews
+- Transition towards **cloud-ready performance engineer / full-stack developer roles**
+
+---
+
+## 🛠️ How to Run
+
+### Python
+
+```bash
+pytest tests/python
+```
